@@ -1,4 +1,4 @@
-# Calender
+# Calendar
 1- First we check year leap or not with leap year concept if (y%400 == 0 || (y % 4==0 &amp;&amp; y% 100! =0)) 
 2- Then we print how many days in a month. print 31 days for month 1, 3, 5, 7, 8, 10, 12 and print 30 days for month 4, 6, 9, 11. And also check the year leap or not.  
 3- This program will read the date from the user and validate whether entered date is correct or not with checking of leap year.
